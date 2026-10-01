@@ -1,0 +1,27 @@
+name: Deploy Stack to Local Server
+on:
+  workflow_dispatch:
+    inputs:
+      commit_ref:
+        description: "Commit SHA or Branch/Tag to deploy"
+        required: false
+        default: ""
+        type: string
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.commit_ref || github.sha }}
+
+      - name: Deploy Stack
+        run: |
+          echo "Deploying the Docker Compose stack..."
+          docker compose up -d --build

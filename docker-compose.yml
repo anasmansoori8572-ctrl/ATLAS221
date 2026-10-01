@@ -1,0 +1,19 @@
+services:
+  atlas_web:
+    build: .
+    container_name: atlas_study_web
+    restart: unless-stopped
+    env_file:
+      - .env.local
+    environment:
+      - NODE_ENV=production
+    networks:
+      - web_mesh
+    labels:
+      caddy: http://atlasstudy.androcoders.net # The public entrypoint for Portainer admin panel
+      caddy.reverse_proxy: "{{upstreams 3000}}" # Directs Caddy to proxy to Portainer's HTTP port 9000
+      caddy.reverse_proxy.header_up: "X-Forwarded-Proto https"
+
+networks:
+  web_mesh:
+    external: true

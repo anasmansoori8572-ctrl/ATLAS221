@@ -1,0 +1,2243 @@
+{
+  "summary": {
+    "total_extracted_source_images": 171,
+    "implemented_in_ui_count": 56,
+    "implementation_coverage": "32.7%",
+    "source_origin": "https://www.atlasstudy.in/",
+    "framework": "Next.js 16 (Turbopack) + React 19 + Three.js + Tailwind CSS v4"
+  },
+  "assets": [
+    {
+      "filename": "about-7.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/about/about-7.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 76524,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "about-8.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/about/about-8.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 88432,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "about-9.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/about/about-9.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 85639,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "chooseus-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/about/chooseus-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1075069,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "mission-bg-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/about/mission-bg-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 74582,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "mission-bg.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/about/mission-bg.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 148987,
+      "category": "about",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "contact-bg.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/backgrounds/contact-bg.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 141323,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "h2.jfif",
+      "extension": ".jfif",
+      "local_path": "/assets/atlas/source-images/backgrounds/h2.jfif",
+      "dimensions": "High-Res",
+      "size_bytes": 1913887,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "hOME.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/backgrounds/hOME.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 1456705,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "home3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/backgrounds/home3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 1942619,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "home4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/backgrounds/home4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 1204285,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "service-bg.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/backgrounds/service-bg.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 198045,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 7958,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-14.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-14.png",
+      "dimensions": "High-Res",
+      "size_bytes": 24844,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-16.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-16.png",
+      "dimensions": "High-Res",
+      "size_bytes": 119486,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-18.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-18.png",
+      "dimensions": "High-Res",
+      "size_bytes": 131203,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-2.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-2.png",
+      "dimensions": "High-Res",
+      "size_bytes": 7172,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-3.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-3.png",
+      "dimensions": "High-Res",
+      "size_bytes": 8365,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-5.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-5.png",
+      "dimensions": "High-Res",
+      "size_bytes": 10683,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-6.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-6.png",
+      "dimensions": "High-Res",
+      "size_bytes": 112697,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-7.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-7.png",
+      "dimensions": "High-Res",
+      "size_bytes": 28445,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "shape-8.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/backgrounds/shape-8.png",
+      "dimensions": "High-Res",
+      "size_bytes": 82252,
+      "category": "backgrounds",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "4417.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/blog/4417.png",
+      "dimensions": "High-Res",
+      "size_bytes": 387281,
+      "category": "blog",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "9814.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/blog/9814.png",
+      "dimensions": "High-Res",
+      "size_bytes": 946109,
+      "category": "blog",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "Australia.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/Australia.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1703137,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/australia/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "Canada.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/Canada.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1251969,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/canada/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "Ireland.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/Ireland.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1620815,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/ireland/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "UAE.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/UAE.png",
+      "dimensions": "High-Res",
+      "size_bytes": 863408,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/uae/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "USA.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/USA.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1674323,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/usa/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "china.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/china.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1408293,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/china/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 29747,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/uk/page.tsx",
+        "app/countries/italy/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 46725,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/usa/page.tsx",
+        "app/countries/new-zealand/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 40132,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/canada/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 22814,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/australia/page.tsx",
+        "app/countries/china/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-5.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-5.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 16166,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/germany/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-6.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-6.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 18700,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/ireland/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "country-7.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/country-7.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 42851,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/france/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "dubai.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/dubai.png",
+      "dimensions": "High-Res",
+      "size_bytes": 14522,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/uae/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/flag-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 4430,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2218,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-10.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-10.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1185,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-11.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-11.png",
+      "dimensions": "High-Res",
+      "size_bytes": 6914,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-12.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-12.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3262,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-13.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-13.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1844,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-14.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-14.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2244,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-15.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-15.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2706,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-16.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-16.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3903,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/flag-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 4396,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/countries/flag-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 3709,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "flag-9.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/flag-9.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4001,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "france.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/france.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1290039,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/france/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "germany.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/germany.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1535018,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/germany/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "italy.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/italy.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1820886,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/italy/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "new-zealand.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/new-zealand.png",
+      "dimensions": "High-Res",
+      "size_bytes": 19496,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "newzealand.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/newzealand.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1483841,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/new-zealand/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "uk.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/countries/uk.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1717283,
+      "category": "countries",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/countries/page.tsx",
+        "app/countries/uk/page.tsx",
+        "components/sections/CountriesSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "AASHIMA.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/home/AASHIMA.png",
+      "dimensions": "High-Res",
+      "size_bytes": 848991,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/sections/StudentsSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "ANKITA.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/home/ANKITA.png",
+      "dimensions": "High-Res",
+      "size_bytes": 922747,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/sections/StudentsSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "VISHANT.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/VISHANT.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 35158,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/sections/StudentsSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "atlas.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/home/atlas.png",
+      "dimensions": "High-Res",
+      "size_bytes": 39907,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "destination-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/destination-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 60891,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 6130,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 7330,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 9414,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 10145,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-5.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-5.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 7834,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "footer-6.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/footer-6.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 6429,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/footer/Footer.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "support-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/home/support-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 2837,
+      "category": "home",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "error.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/error.png",
+      "dimensions": "High-Res",
+      "size_bytes": 13551,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "favicon.ico",
+      "extension": ".ico",
+      "local_path": "/assets/atlas/source-images/icons/favicon.ico",
+      "dimensions": "High-Res",
+      "size_bytes": 15086,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5987,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-2.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-2.png",
+      "dimensions": "High-Res",
+      "size_bytes": 7412,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-3.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-3.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5233,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-34.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-34.png",
+      "dimensions": "High-Res",
+      "size_bytes": 14658,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-35.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-35.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4461,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-36.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-36.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4746,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-37.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-37.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5993,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-38.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-38.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4808,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-39.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-39.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3651,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-4.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-4.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4886,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-40.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-40.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5478,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-46.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-46.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2948,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-47.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-47.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3167,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-48.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-48.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3399,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-49.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-49.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5746,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-5.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-5.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5390,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-50.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-50.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2762,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-51.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-51.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3815,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-52.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-52.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2587,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-53.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-53.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2857,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-54.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-54.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4981,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-55.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-55.png",
+      "dimensions": "High-Res",
+      "size_bytes": 3444,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-56.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-56.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4981,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-57.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-57.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4379,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-58.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-58.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5200,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-6.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-6.png",
+      "dimensions": "High-Res",
+      "size_bytes": 7530,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-7.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-7.png",
+      "dimensions": "High-Res",
+      "size_bytes": 4357,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "icon-8.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/icon-8.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5884,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "quote-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/quote-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 2638,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "quote-4.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/icons/quote-4.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1648,
+      "category": "icons",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "contact-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/misc/contact-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1793263,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/contact/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "contriesoverview.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/misc/contriesoverview.png",
+      "dimensions": "High-Res",
+      "size_bytes": 1211574,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 190668,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 127562,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 82403,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-5.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-5.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 61513,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-7.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-7.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 96503,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "page-title-8.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/page-title-8.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 91440,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "sidebar-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/sidebar-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 50582,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "sidebar-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/misc/sidebar-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 139870,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "statistics-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/statistics-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 111822,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "statistics-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/misc/statistics-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 38208,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "statistics-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/misc/statistics-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 81293,
+      "category": "misc",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/scholarship/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "nitin.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/students/nitin.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 25532,
+      "category": "students",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "components/sections/StudentsSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "Rakim.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/team/Rakim.png",
+      "dimensions": "High-Res",
+      "size_bytes": 322657,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "Zaid.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/team/Zaid.png",
+      "dimensions": "High-Res",
+      "size_bytes": 953462,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "ali.jpeg",
+      "extension": ".jpeg",
+      "local_path": "/assets/atlas/source-images/team/ali.jpeg",
+      "dimensions": "High-Res",
+      "size_bytes": 38336,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "rakim.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/rakim.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 946109,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/about/page.tsx",
+        "app/team/page.tsx",
+        "components/sections/TeamSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-10.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-10.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 53962,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 38571,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-5.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-5.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 29659,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-6.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-6.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 33475,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-7.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-7.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 39792,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-8.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-8.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 51405,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "team-9.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/team/team-9.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 47891,
+      "category": "team",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "DUOLINGO.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/DUOLINGO.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 27809,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/duolingo/page.tsx",
+        "app/coaching/page.tsx",
+        "app/test-prep/duolingo/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "GMAT.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/GMAT.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 31960,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/coaching/page.tsx",
+        "app/gmat/page.tsx",
+        "app/test-prep/gmat/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "GRE.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/GRE.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 36771,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/gre/page.tsx",
+        "app/coaching/page.tsx",
+        "app/test-prep/gre/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "IELTS.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/IELTS.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 34462,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/coaching/page.tsx",
+        "app/ielts/page.tsx",
+        "app/test-prep/ielts/page.tsx",
+        "components/sections/TestPrepSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "PTE.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/PTE.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 35031,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/pte/page.tsx",
+        "app/coaching/page.tsx",
+        "app/test-prep/pte/page.tsx",
+        "components/sections/TestPrepSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "SAT.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/SAT.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 35240,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/sat/page.tsx",
+        "app/coaching/page.tsx",
+        "app/test-prep/sat/page.tsx",
+        "components/sections/TestPrepSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "TOEFL.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/TOEFL.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 30109,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/toefl/page.tsx",
+        "app/coaching/page.tsx",
+        "app/test-prep/toefl/page.tsx",
+        "components/sections/TestPrepSection.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-14.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-14.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 18933,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/pte/page.tsx",
+        "app/ielts/page.tsx",
+        "app/test-prep/pte/page.tsx",
+        "app/test-prep/ielts/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-15.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-15.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 38341,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/duolingo/page.tsx",
+        "app/gre/page.tsx",
+        "app/test-prep/duolingo/page.tsx",
+        "app/test-prep/gre/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-16.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-16.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 27027,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/gmat/page.tsx",
+        "app/test-prep/gmat/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-17.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-17.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 50130,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/toefl/page.tsx",
+        "app/test-prep/toefl/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-18.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-18.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 38205,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/sat/page.tsx",
+        "app/test-prep/sat/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "coaching-bg-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/test-prep/coaching-bg-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 85086,
+      "category": "test-prep",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-1.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-1.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5064,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-2.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-2.png",
+      "dimensions": "High-Res",
+      "size_bytes": 6166,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-3.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-3.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5275,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-4.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-4.png",
+      "dimensions": "High-Res",
+      "size_bytes": 6226,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-5.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-5.png",
+      "dimensions": "High-Res",
+      "size_bytes": 5553,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "clients-logo-6.png",
+      "extension": ".png",
+      "local_path": "/assets/atlas/source-images/testimonials/clients-logo-6.png",
+      "dimensions": "High-Res",
+      "size_bytes": 6226,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 8935,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-10.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-10.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 4441,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-11.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-11.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 4763,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 8441,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 8633,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-9.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-9.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 4773,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "testimonial-bg.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/testimonials/testimonial-bg.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 221900,
+      "category": "testimonials",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa (1).jpeg",
+      "extension": ".jpeg",
+      "local_path": "/assets/atlas/source-images/visa/visa (1).jpeg",
+      "dimensions": "High-Res",
+      "size_bytes": 10355,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa (2).jpeg",
+      "extension": ".jpeg",
+      "local_path": "/assets/atlas/source-images/visa/visa (2).jpeg",
+      "dimensions": "High-Res",
+      "size_bytes": 23492,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa (3).jpeg",
+      "extension": ".jpeg",
+      "local_path": "/assets/atlas/source-images/visa/visa (3).jpeg",
+      "dimensions": "High-Res",
+      "size_bytes": 18102,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-1.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-1.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 29142,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/student/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-10.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-10.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 18650,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/tourist/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-11.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-11.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 33735,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/conference/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-12.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-12.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 41223,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/medical/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-13.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-13.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 85048,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-14.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-14.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 51240,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-15.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-15.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 56962,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-16.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-16.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 66338,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-17.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-17.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 65420,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": false,
+      "used_in_components": [],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-2.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-2.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 27757,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/residence/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-3.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-3.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 25219,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/business/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-4.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-4.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 34408,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/tourist/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-5.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-5.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 66347,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/conference/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-6.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-6.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 14859,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/page.tsx",
+        "app/visa/medical/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-7.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-7.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 25854,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/student/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-8.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-8.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 15398,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/residence/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    },
+    {
+      "filename": "visa-9.jpg",
+      "extension": ".jpg",
+      "local_path": "/assets/atlas/source-images/visa/visa-9.jpg",
+      "dimensions": "High-Res",
+      "size_bytes": 27915,
+      "category": "visa",
+      "is_source_atlas_study": true,
+      "implemented_in_ui": true,
+      "used_in_components": [
+        "app/visa/business/page.tsx"
+      ],
+      "treatment_3d": "Three.js WebGL / CSS 3D Tilt / Depth Layered Backdrop / Next.js Image Optimization"
+    }
+  ]
+}
